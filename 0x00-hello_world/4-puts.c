@@ -1,9 +1,8 @@
 #include <stdio.h>
 /*
- * main - print a line of code using pute
- * 
- * Return:
- */
+ * main -Print a long code using puts
+ * Return: 0
+*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
