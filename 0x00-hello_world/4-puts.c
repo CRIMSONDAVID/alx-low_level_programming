@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main -Print a long code using puts
  * Return: 0
 */
